@@ -1,2 +1,5 @@
 # minimalversionsystem
 optional
+
+random license
+
